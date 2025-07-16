@@ -49,19 +49,19 @@ function MainPage() {
             <div className="experience-section">
               <div className="experience-inner">
                 <div className="col">
-                  <h3>20+ projects</h3>
+                  <h3>10+ projects</h3>
                   <p>experience</p>
                 </div>
                 <div className="col">
-                  <h3>3.64 GPA</h3>
+                  <h3>3.67 GPA</h3>
                   <p>University of Jordan</p>
                 </div>
                 <div className="col">
-                  <h3>250+</h3>
+                  <h3>150+</h3>
                   <p>Courses Hours</p>
                 </div>
                 <div className="col">
-                  <h3>300+</h3>
+                  <h3>200+</h3>
                   <p>Volunteering Hours</p>
                 </div>
               </div>

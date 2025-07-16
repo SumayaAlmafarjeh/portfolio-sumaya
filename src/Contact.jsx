@@ -15,8 +15,6 @@ function Contact() {
         <CgMail className='contact-icon' />
         <a className='contact-link' href="mailto:sumaya.almafarjeh@gmail.com"  target="_blank"><span>sumaya.almafarjeh@gmail.com</span></a>
       </div>
-
-
     </div>
   )
 }
