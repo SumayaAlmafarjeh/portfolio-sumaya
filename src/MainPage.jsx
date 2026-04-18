@@ -53,11 +53,11 @@ function MainPage() {
                   <p>experience</p>
                 </div>
                 <div className="col">
-                  <h3>3.67 GPA</h3>
+                  <h3>3.65 GPA</h3>
                   <p>University of Jordan</p>
                 </div>
                 <div className="col">
-                  <h3>150+</h3>
+                  <h3>100+</h3>
                   <p>Courses Hours</p>
                 </div>
                 <div className="col">
