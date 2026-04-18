@@ -49,7 +49,7 @@ function MainPage() {
             <div className="experience-section">
               <div className="experience-inner">
                 <div className="col">
-                  <h3>10+ projects</h3>
+                  <h3>6+ projects</h3>
                   <p>experience</p>
                 </div>
                 <div className="col">
