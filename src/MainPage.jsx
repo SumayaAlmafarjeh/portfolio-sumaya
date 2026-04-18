@@ -80,8 +80,8 @@ function MainPage() {
             <img className='skillImg' src={bootstropIcon} alt="" />
             <img className='skillImg' src={nodejsIcon} alt="" />
             <img className='skillImg' src={figmaIcon} alt="" />
-            <img className='skillImg' src={mongoIcon} alt="" />
-            <img className='skillImg' src={androidIcon} alt="" />
+           
+            
             <img className='skillImg' src={phpIcon} alt="" />
           </div>
         </div>
